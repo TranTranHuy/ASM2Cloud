@@ -7,10 +7,10 @@ class connect{
     public $dbName;
 
     public function __construct(){
-        $this->server ="localhost";
-        $this->user = "root";
-        $this->password = "";
-        $this->dbName = "test1";
+        $this->server ="co28d739i4m2sb7j.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+        $this->user = "vg42pkqm9yn4o2lu";
+        $this->password = "nmshjmn5myrl4pvl";
+        $this->dbName = "x88i7mdt3wcoth32";
     }
 
     function connectToMySQL():mysqli{
