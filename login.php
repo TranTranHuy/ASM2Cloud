@@ -37,8 +37,8 @@ Put your code right here
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
             <div class="container-fluid">
                 
-            <a href="MYSHOP.php" class="navbar-brand"><figure>
-                <img src="../ASM2New/images/267901914_1144488219424426_8851621994233261185_n.png" width="70px" >
+            <a href="index.php" class="navbar-brand"><figure>
+                <img src="./images/267901914_1144488219424426_8851621994233261185_n.png" width="70px" >
             </figure></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="">
                 <span class="navbar-toggler-icon"></span>
